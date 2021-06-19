@@ -36,6 +36,7 @@
   "devDependencies": {
     "eslint": "^7.28.0",
     "eslint-plugin-react": "^7.24.0",
+    "gatsby-plugin-gatsby-cloud": "^2.7.1",
     "prettier": "^2.3.1"
   },
   "homepage": "https://github.com/wangonya/flexible-gatsby",

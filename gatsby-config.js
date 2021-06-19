@@ -14,6 +14,9 @@ module.exports = {
   },
   plugins: [
     {
+     resolve: `gatsby-plugin-gatsby-cloud`,
+    },
+    {
       resolve: `gatsby-source-filesystem`,
       options: {
         path: `${__dirname}/content/blog`,
