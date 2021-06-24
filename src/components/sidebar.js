@@ -59,7 +59,10 @@ const Sidebar = ({ siteMetadata }) => (
 									href={`https://linkedin.com/in/${siteMetadata.social.linkedin}`}
 									target="_blank"
 								>
-									<i className="fa fa-linkedin"/>
+									<div class="fa-3x">
+  <i class="fa-solid fa-heart fa-beat" style="--fa-animation-duration: 0.5s;" ></i>
+</div>
+
 								</a>
 							</li>
 						)}
