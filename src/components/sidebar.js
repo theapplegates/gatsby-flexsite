@@ -38,7 +38,8 @@ const Sidebar = ({ siteMetadata }) => (
 									href={`https://facebook.com/${siteMetadata.social.facebook}`}
 									target="_blank"
 								>
-									<i className="fa fa-facebook" aria-hidden="true" />
+									
+										<i class="fa-thin fa-restroom" aria-hidden="true" ></i>
 								</a>
 							</li>
 						)}
