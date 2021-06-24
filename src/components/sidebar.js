@@ -59,14 +59,14 @@ const Sidebar = ({ siteMetadata }) => (
 									href={`https://linkedin.com/in/${siteMetadata.social.linkedin}`}
 									target="_blank"
 								>
-									<i className="fa fa-linkedin" aria-hidden="true" />
+									<i className="fa fa-linkedin"/>
 								</a>
 							</li>
 						)}
 						{siteMetadata.social.email && (
 							<li>
 								<a href={`mailto:${siteMetadata.social.email}`} target="_blank">
-									<i className="fa fa-envelope-o" aria-hidden="true" />
+									<i class="fa-thin fa-paper-plane"></i>
 								</a>
 							</li>
 						)}
