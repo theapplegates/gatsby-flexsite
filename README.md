@@ -4,7 +4,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/a0a6e226-6c7a-43e0-bab6-0c658c8abca5/deploy-status)](https://app.netlify.com/sites/flexible-gatsby/deploys)
 
-A simple minimalist Gatsby starter for your blog. [Demo](https://flexible-gatsby.netlify.com/).
+A  minimalist Gatsby starter for your blog. [Demo](https://flexible-gatsby.netlify.com/).
 
 Inspired by [flexible-jekyll](https://github.com/artemsheludko/flexible-jekyll).
 
